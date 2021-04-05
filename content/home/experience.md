@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Postdoctoral Scholar
+    company: University of California, Davis
+    company_url: 'https://www.ucdavis.edu'
     location: California
-    date_start: '2017-01-01'
+    date_start: '2019-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -35,11 +35,43 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+  - title: Research Assistant
+    company: Purdue University/ InMaC
+    company_url: 'https://www.purdue.edu/in-mac/'
+    location: Indiana
+    date_start: '2017-05-01'
+    date_end: '2018-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Research Assistant/ General Electric
+    company: Purdue University
+    company_url: 'https://www.purdue.edu/newsroom/releases/2014/Q4/purdue,-ge-to-collaborate-on-advanced-manufacturing-to-enable-faster,-efficient-brilliant-factories.html'
+    location: Indiana
+    date_start: '2015-05-01'
+    date_end: '2017-04-30'
+    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Research Intern
+    company: General Electric
+    company_url: 'https://www.ge.com/research/research-engine/rd-facilities/niskayuna'
+    location: Indiana
+    date_start: '2016-05-01'
+    date_end: '2016-08-13'
+    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Research Intern
+    company: Indian Oil Corporation Limited
+    company_url: 'https://iocl.com/'
+    location: Indiana
+    date_start: '2014-04-30'
+    date_end: '2014-07-15'
+    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Research Intern
+    company: Hong Kong Polytechnic University
+    company_url: 'https://www.polyu.edu.hk/en/'
+    location: Indiana
+    date_start: '2011-06-30'
+    date_end: '2011-08-30'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
