@@ -68,6 +68,14 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
         
   - title: Research Intern
+    company: Warwick Manufacturing Group
+    company_url: 'https://warwick.ac.uk/fac/sci/wmg/'
+    location: Coventry, UK
+    date_start: '2012-05-01'
+    date_end: '2012-07-30'
+    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Research Intern
     company: Hong Kong Polytechnic University
     company_url: 'https://www.polyu.edu.hk/en/'
     location: Indiana

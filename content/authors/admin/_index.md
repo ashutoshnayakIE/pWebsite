@@ -18,7 +18,7 @@ interests:
 - Marketing Research
 - Consumer Journey
 - Campaign Optimization
-- Data Analytics
+- Data Science
 - Reinforcement Learning
 - Scheduling
 organizations:
@@ -40,10 +40,10 @@ social:
   link: https://scholar.google.com/citations?user=3LKxIYAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ashutoshnayakIE
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/ashutoshnayakkgp
+  link: https://www.linkedin.com/in/ashutoshnayakkgp/
 superuser: true
 title: Ashutosh Nayak
 ---
