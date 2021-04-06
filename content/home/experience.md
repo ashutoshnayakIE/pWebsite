@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Scholar
     company: University of California, Davis
     company_url: 'https://www.ucdavis.edu'
-    location: California
+    location: Davis, California
     date_start: '2019-01-01'
     date_end: ''
     description: |2-
@@ -38,7 +38,7 @@ experience:
   - title: Research Assistant
     company: Purdue University/ InMaC
     company_url: 'https://www.purdue.edu/in-mac/'
-    location: Indiana
+    location: West Lafayette, Indiana
     date_start: '2017-05-01'
     date_end: '2018-12-31'
     description: |2-
@@ -51,7 +51,7 @@ experience:
   - title: Research Assistant/ General Electric
     company: Purdue University
     company_url: 'https://www.purdue.edu/newsroom/releases/2014/Q4/purdue,-ge-to-collaborate-on-advanced-manufacturing-to-enable-faster,-efficient-brilliant-factories.html'
-    location: Indiana
+    location: West Lafayette, Indiana
     date_start: '2015-05-01'
     date_end: '2017-04-30'
     description: |2-
@@ -63,7 +63,7 @@ experience:
   - title: Research Intern
     company: General Electric
     company_url: 'https://www.ge.com/research/research-engine/rd-facilities/niskayuna'
-    location: Indiana
+    location: Niskayuna, New York
     date_start: '2016-05-01'
     date_end: '2016-08-13'
     description: |2-
@@ -75,7 +75,7 @@ experience:
   - title: Research Intern
     company: Indian Oil Corporation Limited
     company_url: 'https://iocl.com/'
-    location: Indiana
+    location: Mumbai, Maharashtra
     date_start: '2014-04-30'
     date_end: '2014-07-15'
     description: Developed an optimal oil vessel scheduling module for oil vessel logistics along Indian coastline.
@@ -91,7 +91,7 @@ experience:
   - title: Research Intern
     company: Hong Kong Polytechnic University
     company_url: 'https://www.polyu.edu.hk/en/'
-    location: Indiana
+    location: Hong Kong
     date_start: '2011-06-30'
     date_end: '2011-08-30'
     description: Developing models for resilient multi-echelon supply chain. 
