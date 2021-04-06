@@ -1,5 +1,5 @@
 ---
-abstract: Growing demand and aging infrastructure has put the current electricity grid under increased pressure. Microgrids (μGs) equipped with storage are believed to be the future of electricity grids that will be able to achieve energy efficiency by integrating renewable energy sources. Storage can be used to mitigate the time-varying and intermittent nature of renewable energy sources. In this article, we consider optimal load scheduling in a μG for four different load types: production line loads, non-moveable loads, time moveable loads, and modifiable power loads for different types of consumers. Consumers cooperate with the System Operator to schedule their loads to achieve overall energy efficiency in the μG. Two different options for charging the storage are considered: (i) charging from excess harvest in μG and (ii) charging from the Macrogrid. We perform sensitivity analysis on the storage capacity for two pricing policies to understand its trade-offs with the total electricity cost and Peak to Average Ratio. Computational experiments with different problem instances demonstrate that: (i) charging storage from the Macrogrid allows higher flexibility in load scheduling; and (ii) load scheduling with cooperative consumers outperforms the individualistic and random scheduling in terms of total electricity cost.
+abstract: 
 
 authors:
 - Nayak, A
