@@ -1,6 +1,5 @@
 ---
-bio: My research interests Data Science, marketing Analytics, Optimization and Simulation
-  matter.
+bio: My research interests include Data Science, marketing Analytics, Optimization and Simulation.
 education:
   courses:
   - course: PhD in Industrial Engineering
