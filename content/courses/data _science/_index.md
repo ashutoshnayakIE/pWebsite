@@ -1,7 +1,7 @@
 ---
 date: "2021-01-24"
 linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: Getting started with Data Science.
 title: "\U0001F4CA Data Science"
 type: book
 ---
@@ -10,7 +10,7 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Content
 
 - Introduction to Github and Python programming skills
 - Conceptual Knowledgebase with example <a href="ashutoshnayak.in" target="_blank">here</a>

@@ -1,8 +1,8 @@
 ---
 date: "2021-01-24"
-linkTitle: Data Science
-summary: Courses taught to industry professionals.
-title: "\U0001F4CA Industrial Professionals"
+linkTitle: Industry Courses
+summary: Teaching experience - Industry Professionals.
+title: "\U0001F4CA Industry Professionals"
 type: book
 ---
 
@@ -10,6 +10,7 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
+<!--
 ## What you will learn
 
 - Introduction to Github and Python programming skills
@@ -20,8 +21,8 @@ type: book
 ## Overview
 
 This is a short refresher of important topics in data science. You can read this section as a part of things to know before data science interview. It could also help you get started with git/python and how to start writing code for data science.
-
-## Courses in this program
+-->
+## Past Teaching Experience
 
 {{< list_children >}}
 
