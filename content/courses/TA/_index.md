@@ -22,9 +22,9 @@ type: book
 I have worked as teaching assistant for 3 different courses during my first year of PhD program at Purdue University. I was teaching assistant for two graduate level courses and one undergraduate course. The courses (with approximate class size) include:
 
 <ul>
-<li>Introduction to Statistics (Undergraduate class of 170 students). The class was taught by Prof. Steve Landry. Responsibilities include teaching a weekly Minitab lab, holding office hours to resolve doubts and grading exams.</li>
-<li>Design and Control of Manufacturing Systems (Graduate class of 80 students). The class was taught by Prof. Seokcheon Lee. Responsibilities include grading exams and final student project, help student in their project and holding office hours to resolve doubts.</li>
-<li>Industrial Application of Statistics (Graduate class of 40 students). The class was taught by Prof. Seokcheon Lee. Responsibilities include working with students in their experiment design, conducting labs for Minitab, holding office hours to resolve doubts and grading the exams.</li>
+<li><b>Introduction to Statistics (IE330)</b><br> (Undergraduate class of 170 students)<br> The class was taught by Prof. Steve Landry. Responsibilities include teaching a weekly Minitab lab, holding office hours to resolve doubts and grading exams.</li>
+<li><b>Design and Control of Manufacturing Systems (IE579)</b> <br>(Graduate class of 80 students)<br> The class was taught by Prof. Seokcheon Lee. Responsibilities include grading exams and final student project, help student in their project and holding office hours to resolve doubts.</li>
+<li><b>Industrial Application of Statistics (IE533)</b><br> (Graduate class of 40 students)<br> The class was taught by Prof. Seokcheon Lee. Responsibilities include working with students in their experiment design, conducting labs for Minitab, holding office hours to resolve doubts and grading the exams.</li>
 </ul>
 
 <!--
