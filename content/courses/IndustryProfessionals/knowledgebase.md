@@ -1,12 +1,12 @@
 ---
 date: "2021-01-01"
 math: true
-title: Statistics
+title: Knowledgebase Map
 type: book
 weight: 40
 ---
 
-Introduction to statistics for data science.
+The conceptual map contains a list of topics that could be considered as "things to know" before a data science interview.
 
 <!--more-->
 

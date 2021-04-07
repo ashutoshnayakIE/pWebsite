@@ -1,12 +1,12 @@
 ---
 date: "2021-01-01"
 highlight: true
-title: Visualization
+title: Uncovered Topics
 type: book
 weight: 30
 ---
 
-Learn how to visualize data with Plotly.
+THis section provides python notebooks for various topics in data science.
 
 <!--more-->
 
